@@ -70,4 +70,5 @@ highlight_name: true
 Hi! My name is Zhanhao Zhang, I‘m now a postgraduate majoring in Mechanical and Aerospace Engineering from Tandon College of New York University. The research project I’m doing now is about shock wave stand-off distance. The main purpose is to explore the difference between the reaction of the stand-off distance of hypersonic viscous flow to angle, sound velocity, temperature and other variables under non-equilibrium conditions and that under equilibrium conditions. Have high enthusiasm for new knowledge and new skills, accept opinions modestly, and strive to become a better researcher every day！
 
 No small steps can lead to thousands of miles, no small streams can lead to rivers and seas！
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
