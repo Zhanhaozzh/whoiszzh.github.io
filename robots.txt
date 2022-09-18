@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://rainbow-muffin-13e315.netlify.app/sitemap.xml
