@@ -28,6 +28,10 @@ feature:
     icon: 3
     icon_pack: fab
     name: TecPlot
+  - description: 40%
+    icon: 4
+    icon_pack: fab
+    name: ANSYS
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
