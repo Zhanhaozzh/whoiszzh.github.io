@@ -20,14 +20,14 @@ feature:
     icon: 1
     icon_pack: fab
     name: FORTRAN
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+  - description: 80%
+    icon: 2
+    icon_pack: fab
+    name: MATLAB 
+  - description: 70%
+    icon: 3
+    icon_pack: fab
+    name: TecPlot
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
