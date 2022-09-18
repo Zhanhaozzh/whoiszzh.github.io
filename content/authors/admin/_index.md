@@ -29,7 +29,7 @@ education:
       institution: New York University
       year: 2021
     - course: BSc in Energy and Power Engineering
-      institution: MShandong University
+      institution: Shandong University
       year: 2017
 
 # Social/Academic Networking
