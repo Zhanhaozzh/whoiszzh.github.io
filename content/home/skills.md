@@ -32,8 +32,12 @@ feature:
     icon: 4
     icon_pack: fab
     name: ANSYS
-  - description: 10%
+  - description: 30%
     icon: 5
+    icon_pack: fab
+    name: Wolfram Mathematica
+  - description: 10%
+    icon: 6
     icon_pack: fab
     name: OpenFOAM
 # Uncomment to use emoji icons.
