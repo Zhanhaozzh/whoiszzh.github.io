@@ -17,24 +17,16 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 80%
-    icon: 1
-    icon_pack: fab
+   # icon: 1
+   # icon_pack: fab
     name: FORTRAN
   - description: 80%
-    icon: 2
-    icon_pack: fab
     name: Matlab
   - description: 70%
-    icon: 3
-    icon_pack: fab
     name: TecPlot
    - description: 40%
-    icon: 4
-    icon_pack: fab
     name: ANSYS
    - description: 10%
-    icon: 5
-    icon_pack: fab
     name: OpenFOAM
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
