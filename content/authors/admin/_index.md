@@ -71,4 +71,4 @@ Hi! My name is Zhanhao Zhang, I‘m now a postgraduate majoring in Mechanical an
 
 No small steps can lead to thousands of miles, no small streams can lead to rivers and seas！
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
