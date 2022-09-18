@@ -32,6 +32,10 @@ feature:
     icon: 4
     icon_pack: fab
     name: ANSYS
+  - description: 10%
+    icon: 5
+    icon_pack: fab
+    name: OpenFOAM
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
