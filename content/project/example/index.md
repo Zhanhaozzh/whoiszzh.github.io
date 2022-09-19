@@ -33,3 +33,5 @@ slides: example
 The numerical solution is redundant for the problem of one-dimensional nozzle, because the closed form analytical solution can be derived directly from the formula. However, in order to verify the reliability of CFD simulation method, it is a better choice to select the flow problem with known analytical solution. This project is mainly to verify and practice McCormack's method.
 
 McCormack method is a method that uses prediction step and prediction step skillfully to realize second-order accuracy calculation.
+
+{{< figure src="code1.jpg" id="code 1" >}}
