@@ -29,7 +29,7 @@ content:
       tag: '*'
     - name: Graduation Design
       tag:  graduation design
-    - name: Computational Fluid Dynamics Example
+    - name: CFD Example
       tag:  Example
     - name: others
       tag:  demo
