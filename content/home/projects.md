@@ -30,7 +30,7 @@ content:
     - name: Graduation Design
       tag:  graduation design
     - name: CFD Example
-      tag:  Example
+      tag:  example
     - name: others
       tag:  demo
 
