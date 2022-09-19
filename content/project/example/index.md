@@ -34,4 +34,4 @@ The numerical solution is redundant for the problem of one-dimensional nozzle, b
 
 McCormack method is a method that uses prediction step and prediction step skillfully to realize second-order accuracy calculation.
 
-{{< figure src="code1.jpg" id="code 1" >}}
+{{< figure src="code1.png" id="code 1" >}}
